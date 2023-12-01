@@ -1,0 +1,38 @@
+.Type{
+    justify-content: center;
+    justify-items: center;
+    font-size: 52px;
+    margin: auto;
+    font-weight: bold;
+    margin-top: 200px;
+    border-radius: 12px;
+    margin-bottom: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Desc{
+    text-align: center;
+    color: #130754;
+    font-size: 55px;
+    justify-content: center;
+    justify-items: center;
+    font-weight: bolder;
+    margin-bottom: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Scroll{
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    justify-items: center;
+    font-weight: 400;
+    margin-bottom: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Arrow {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 200px
+}
